@@ -4,7 +4,7 @@
 After set .env, you must run migration and seeders
 
 ```bash
-  php artisan migrate --seeds
+  php artisan migrate --seed
 ```
 
 Then you can start the application
